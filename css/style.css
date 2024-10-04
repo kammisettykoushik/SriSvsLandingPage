@@ -274,7 +274,13 @@ a:focus {
   font-size: 24px;
   font-weight: 700;
   color: #ffffff;
-  text-transform: uppercase;
+  text-transform: none;
+}
+@media (max-width: 767.98px) {
+  .navbar-brand span {
+    font-size: 15px;
+    font-weight: 300;
+  }
 }
 
 /*end header section*/
