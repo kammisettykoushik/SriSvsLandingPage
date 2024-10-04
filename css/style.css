@@ -313,8 +313,8 @@ a:focus {
 }
 
 .slider_section .detail-box h1 {
-  font-weight: bold;
-  font-size: 3rem;
+  font-weight: 400;
+  font-size: 2.5rem;
 }
 
 .slider_section .detail-box p {
